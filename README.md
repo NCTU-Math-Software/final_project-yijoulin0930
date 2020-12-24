@@ -1,5 +1,4 @@
-# final_project-yijoulin0930
-final_project-yijoulin0930 created by GitHub Classroom
+# Project 順時鐘矩陣
 
 --------------------------------------------------------------- 
 ## 以下是一個 5×5 矩陣, 數字由 1 從最中間順時鐘往外依序寫下:
